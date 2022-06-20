@@ -1,0 +1,24 @@
+.entry_form {
+  padding: 104px;
+}
+.form_row {
+  padding: 16px;
+  text-align: left;
+}
+.label {
+  margin-bottom: 8px;
+}
+.input input {
+  width: 300px;
+  padding: 6px;
+}
+.form_row button {
+  background: slateblue;
+  color: white;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.form_row .disable_btn {
+  opacity: 0.5;
+  cursor: default;
+}
